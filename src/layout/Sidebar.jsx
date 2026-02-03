@@ -85,7 +85,7 @@ const AutoSaveForm = ({ fields }) => {
           />
         ))}
 
-        <p className="flex gap-2">
+        <p className="flex gap-5">
           <strong>Status:</strong> {status}
         </p>
       </div>
