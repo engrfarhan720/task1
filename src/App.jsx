@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './layout/Header'
-import Sidebar from './layout/Sidebar'
+import Form from './layout/Form'
 import Mainlayout from './layout/Mainlayout'
 
 
@@ -10,7 +10,7 @@ function App() {
     
     <div>
       <Header/>
-      <Sidebar/>
+      <Form/>
       <Mainlayout/>
     </div>
     
