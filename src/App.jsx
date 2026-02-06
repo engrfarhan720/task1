@@ -1,7 +1,7 @@
 import React from 'react'
-import Header from './layout/Header'
-import Form from './layout/Form'
-import Mainlayout from './layout/Mainlayout'
+import Header from './components/Header'
+import Form from './components/Form'
+import Mainlayout from './components/Mainlayout'
 
 
 function App() {
